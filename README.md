@@ -61,7 +61,7 @@ Por lo que las principales tecnologías que manejo son:
 
 <br>
 
-[![@FrancoNahuelPerez](https://img.icons8.com/fluency/48/000000/linkedin.png "FrancoNahuelPerez")](https://www.linkedin.com/in/franco-nahuelperez/) [![franahuelperez@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@franahuelperez@gmail.com")](franahuelperez@gmail.com)
+[![@FrancoNahuelPerez](https://img.icons8.com/fluency/48/000000/linkedin.png "FrancoNahuelPerez")](https://www.linkedin.com/in/franco-nahuelperez/) [![@FrancoNahuelPerez](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:franahuelperez@gmail.com)
 
 <br>
 
