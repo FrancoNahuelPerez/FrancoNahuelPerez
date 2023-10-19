@@ -26,7 +26,7 @@ Soy un **Programador _Fullstack_** con un sólido enfoque en el ***Back-end*** y
 <br>
 
 ## ¿Qué hago?
-Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como 
+En la actualidad me dedico a realizar proyectos que me permiten avanzar en mi formación como 
 programador. **Me fascina poder encontrar la solución a los problemas de la vida con código**
 
 <br>
